@@ -1,0 +1,23 @@
+.banner {
+  background-size: cover;
+  background-position: bossom;
+  padding: 200px 0;
+}
+
+.banner h1 {
+  padding: 30px;
+  color:  #F7F7F7;
+  font-size: 48px;
+  text-align: center;
+
+  background: rgba(0,0,0,0.5)
+
+}
+
+.banner p {
+  padding: 40px;
+  color:aliceblue;
+  font-size: 24px;
+  font-weight: bold;
+  background: rgba(0,0,0,0.5)
+}
